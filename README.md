@@ -40,9 +40,6 @@ Clone the repository and follow the usage instructions to harness the power of t
 
 Feel free to contribute to this project by suggesting improvements, reporting issues, or enhancing its functionality. Your input is valuable in making this Hacker News Scraper even more effective.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE), allowing you to modify and distribute the code as needed.
 
 ---
 
