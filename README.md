@@ -41,7 +41,15 @@ Clone the repository and follow the usage instructions to harness the power of t
 Feel free to contribute to this project by suggesting improvements, reporting issues, or enhancing its functionality. Your input is valuable in making this Hacker News Scraper even more effective.
 
 
----
-
 **Disclaimer:**
 This project is not affiliated with Hacker News or its parent company, Y Combinator. It is an independent tool developed for educational and informational purposes.
+
+
+
+---
+
+## 🌱 Empower dedication with your generosity
+#### Every single coffee boosts towards greater motivation, turning compassion into action. Show your kind support with just a little click! 😃
+
+<a href="https://www.buymeacoffee.com/developerwasim" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
